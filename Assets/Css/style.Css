@@ -142,7 +142,7 @@ p {
 
     img {
         height: auto;
-        max-height: 150px;
+        max-height: 130px;
     }
 }
 
@@ -196,6 +196,10 @@ p {
 
     img {
         height: auto;
+<<<<<<< HEAD
         max-height: 150px;
+=======
+        max-height: 120px;
+>>>>>>> 1940acc59a31e2c8c33e5e0a4a45b23911006813
     }
 }
